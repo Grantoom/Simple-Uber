@@ -12,4 +12,4 @@
 
 **Проект**
 
-* [Ссылка на проект в GitHub Pages](https://grantoom.github.io/Simple-Uber/)
+* [Ссылка на проект в GitHub Pages](https://Grantoom.github.io/Simple-Uber/)
